@@ -10,3 +10,6 @@
 * Frustum-PointNet
 
 ## Dataset---Data
+* ModelNet40
+* SHREC15
+* ScanNet
