@@ -9,7 +9,7 @@
 * PointNet++
 * Frustum-PointNet
 
-## Dataset---Data
+## Dataset
 * ModelNet40
 * SHREC15
 * ScanNet
