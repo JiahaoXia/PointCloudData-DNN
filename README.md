@@ -1,21 +1,9 @@
 # PointCloudData-DNN
 
-## Dataset
+## Dataset---Data Classification---cla  Segmentation---seg  Detection---det Retriveal---ret
+## Reconstruction---rec Tracking---tra Registration---reg Pose---pos  Autonomous driving---aut
 
-## Classification
-
-## Segmentation
-
-## Detection
-
-## Retriveal
-
-## Reconstruction
-
-## Tracking
-
-## Registration
-
-## Pose
-
-## Autonomous driving
+## PointNet series
+* PointNet
+* PointNet++
+* Frustum-PointNet
