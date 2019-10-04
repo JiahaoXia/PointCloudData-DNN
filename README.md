@@ -7,7 +7,7 @@
 ## PointNet series
 * PointNet
 * PointNet++
-* Frustum-PointNet(det)
+* Frustum-PointNet (det)
 
 ## Dataset
 * ModelNet40
