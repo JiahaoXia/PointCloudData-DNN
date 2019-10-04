@@ -7,9 +7,11 @@
 ## PointNet series
 * PointNet
 * PointNet++
-* Frustum-PointNet
+* Frustum-PointNet (det)
 
 ## Dataset
 * ModelNet40
 * SHREC15
 * ScanNet
+* [KITTI](http://www.cvlibs.net/datasets/kitti/index.php)
+* SUN-RGBD
