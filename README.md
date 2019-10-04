@@ -8,7 +8,7 @@
 * PointNet
 * PointNet++
 * Frustum-PointNet (det)
-reference: https://zhuanlan.zhihu.com/p/44809266
+<br> reference: https://zhuanlan.zhihu.com/p/44809266 \<br>
 
 ## Dataset
 * ModelNet40
