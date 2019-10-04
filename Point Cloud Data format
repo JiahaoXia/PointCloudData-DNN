@@ -9,3 +9,11 @@ ASCII编码 以space间隔
 公用文件头块(PUBLICHEADERBLOCK)
 变量长度记(VARIABLELENGTHRECORDS)
 点数据记录(POINTDATARECORD)
+C一class(所属类)
+F一flight(航线号)
+T一time(GPS时间)
+I一intensity(回波强度)
+R一return(第几次回波)
+N一number of return(回波次数)
+A一scan angle(扫描角）
+RGB一red green blue(RGB颜色值)
