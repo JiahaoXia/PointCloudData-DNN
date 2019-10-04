@@ -13,3 +13,5 @@
 * ModelNet40
 * SHREC15
 * ScanNet
+* KITTI
+* SUN-RGBD
