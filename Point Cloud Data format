@@ -3,3 +3,9 @@
 ASCII编码 以space间隔
 
 # las
+按每条扫描线排列方式存放数据
+包括激光点的三维坐标、多次回波信息、强度信息、扫描角度、分类信息、飞行航带信息、飞行姿态信息、项目信息、GPS信息、数据点颜色信息
+数据类型遵循ANSI C语言标准
+公用文件头块(PUBLICHEADERBLOCK)
+变量长度记(VARIABLELENGTHRECORDS)
+点数据记录(POINTDATARECORD)
