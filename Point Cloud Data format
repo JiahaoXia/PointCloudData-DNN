@@ -1,4 +1,4 @@
-# pts
+# pts, xyz
 以X Y Z顺序保存，数据类型可以为整型或浮点型
 ASCII编码 以space间隔
 
