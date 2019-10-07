@@ -7,6 +7,8 @@
 * [deepen](https://intercom.help/deepenai/en/articles/2607692-how-to-label-point-cloud-dataset)(enterprise plan)
 * [BasicFinder](https://www.basicfinder.com/en/adas/)
 
+* [rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation)
+
 ### Classification---cla  Segmentation---seg  Detection---det
 ### Retriveal---ret  Reconstruction---rec  Tracking---tra
 ### Registration---reg Pose---pos  Autonomous driving---aut
