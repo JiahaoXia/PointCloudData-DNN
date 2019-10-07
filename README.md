@@ -2,6 +2,7 @@
 
 ## Point Cloud Labeling Tools
 * [3D Cloud Point Labeling](https://3d.supervise.ly)([Introduction](https://medium.com/deep-systems/releasing-first-online-3d-point-cloud-labeling-tool-in-supervisely-4faca42b5d6e))
+* [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor)
 
 ### Classification---cla  Segmentation---seg  Detection---det
 ### Retriveal---ret  Reconstruction---rec  Tracking---tra
