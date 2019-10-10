@@ -11,6 +11,7 @@
 * [cloud_annotation_tool](https://github.com/yzrobot/cloud_annotation_tool)
 * [point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool)
 * [scale](https://scale.com/)(Commercial)
+* [Group Annotation of 3D Data](https://gfx.cs.princeton.edu/pubs/Boyko_2014_CBT/index.php)
 
 ### Classification---cla  Segmentation---seg  Detection---det
 ### Retriveal---ret  Reconstruction---rec  Tracking---tra
