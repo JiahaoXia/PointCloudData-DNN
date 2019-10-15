@@ -45,4 +45,3 @@
 * [Stanford Large-scale 3D Indoor Spaces Dataset (S3DIS)](http://buildingparser.stanford.edu/dataset.html)
 * [Vaihingen point cloud semantic labeling dataset](http://www2.isprs.org/commissions/comm3/wg4/3d-semantic-labeling.html)
 * [Paris-Lille-3D](http://npm3d.fr/paris-lille-3d)
-* 
