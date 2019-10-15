@@ -33,7 +33,13 @@
 * PointNet
 * PointNet++
 * Frustum-PointNet (det)
-<br> reference: https://zhuanlan.zhihu.com/p/44809266 
+<br> reference: https://zhuanlan.zhihu.com/p/44809266
+
+## Point Cloud seg Algorithms
+* Edge-based
+* Region growing
+* Model fitting
+* Unsupervised clustering-based
 
 ## Dataset
 * ModelNet40
